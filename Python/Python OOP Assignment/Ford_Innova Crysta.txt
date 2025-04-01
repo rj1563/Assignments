@@ -1,0 +1,4 @@
+Brand: Ford
+Model: Innova Crysta
+Year: 2023
+Price: 500000

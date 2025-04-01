@@ -1,0 +1,39 @@
+2025-02-11 17:02:52,170 - ERROR - Request Error: API returned status code 404
+2025-02-11 17:03:34,443 - ERROR - Request Error: API returned status code 404
+2025-02-12 17:55:36,184 - ERROR - Request Error: API returned status code 404
+2025-02-12 17:57:30,960 - ERROR - Request Error: API returned status code 404
+2025-02-12 18:00:11,347 - ERROR - Request Error: API returned status code 404
+2025-02-12 18:04:08,352 - ERROR - Request Error: API returned status code 404
+2025-02-12 18:04:41,926 - ERROR - Request Error: API returned status code 404
+2025-02-12 18:06:33,865 - ERROR - Request Error: API returned status code 404
+2025-02-12 18:07:04,778 - ERROR - Request Error: API returned status code 404
+2025-02-12 18:39:26,143 - ERROR - Request Error: API returned status code 404
+2025-02-13 11:07:04,647 - ERROR - Request Error: API returned status code 404
+2025-02-13 11:20:19,058 - ERROR - Request Error: API returned status code 404
+2025-02-13 11:20:20,190 - ERROR - Error inserting data: value too long for type character varying(40)
+
+2025-02-13 11:20:20,190 - ERROR - Error inserting data: current transaction is aborted, commands ignored until end of transaction block
+
+2025-02-13 11:23:11,654 - ERROR - Request Error: API returned status code 404
+2025-02-13 11:23:12,674 - ERROR - Error inserting data: there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+2025-02-13 11:23:12,675 - ERROR - Error inserting data: current transaction is aborted, commands ignored until end of transaction block
+
+2025-02-13 11:25:59,932 - ERROR - Request Error: API returned status code 404
+2025-02-13 11:26:00,946 - ERROR - Error inserting data: value too long for type character varying(50)
+
+2025-02-13 11:26:58,033 - ERROR - Request Error: API returned status code 404
+2025-02-13 16:37:46,523 - ERROR - Request Error: API returned status code 404
+2025-02-13 16:37:53,285 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:37:53 2025
+2025-02-13 16:37:58,840 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:37:58 2025
+2025-02-13 16:38:04,377 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:38:04 2025
+2025-02-13 16:38:10,031 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:38:10 2025
+2025-02-13 16:38:15,577 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:38:15 2025
+2025-02-13 16:38:21,202 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:38:21 2025
+2025-02-13 16:38:26,735 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:38:26 2025
+2025-02-13 16:38:54,273 - ERROR - Request Error: API returned status code 404
+2025-02-13 16:39:00,851 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:39:00 2025
+2025-02-13 16:39:06,491 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:39:06 2025
+2025-02-13 16:39:12,011 - ERROR - Error during scheduled task: 'int' object does not support indexing at Thu Feb 13 16:39:12 2025
+2025-02-13 16:40:20,586 - ERROR - Request Error: API returned status code 404
+2025-02-13 17:12:59,222 - ERROR - Request Error: API returned status code 404
