@@ -1,0 +1,8 @@
+transaction_id,store_id,customer_id,amount,transaction_date,status,payment_method
+2001,S001,C001,500.0,2025-03-31,Success,Credit Card
+2002,S002,C002,250.0,2025-03-31,Success,UPI
+2003,S001,C003,700.0,2025-03-31,Success,Debit Card
+2004,S003,C004,900.0,2025-03-31,Success,Wallet
+2005,S002,C005,150.0,2025-03-31,Success,Net Banking
+2006,S002,C006,600.0,2025-03-31,Success,UPI
+2007,S004,C007,750.0,2025-03-31,Failed,Credit Card
