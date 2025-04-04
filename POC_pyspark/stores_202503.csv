@@ -1,0 +1,5 @@
+store_id,store_name,location,manager,total_sales,last_updated
+S001,ABC Mart,Delhi,Mr. A,18500000,2025-03-01
+S002,XYZ Superstore,Mumbai,Ms. B,26800000,2025-03-01
+S003,Fresh Grocers,Bangalore,Mr. C,10200000,2025-03-01
+S005,Urban Mart,Hyderabad,Mr. E,6000000,2025-03-01

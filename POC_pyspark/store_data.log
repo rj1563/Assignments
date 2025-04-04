@@ -1,0 +1,6 @@
+2025-04-04 14:58:25 - INFO - Spark session Initialized.
+2025-04-04 14:58:25 - INFO - Looking for file: C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\stores_202504.csv
+2025-04-04 14:58:25 - INFO - Loading new store data from C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\stores_202504.csv
+2025-04-04 14:58:30 - INFO - Store data successfully loaded and overwritten.
+2025-04-04 14:58:30 - INFO - Shutting down Spark session.
+2025-04-04 14:58:30 - INFO - Closing down clientserver connection

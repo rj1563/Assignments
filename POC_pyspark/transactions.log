@@ -1,0 +1,20 @@
+2025-04-04 14:57:39 - INFO - Spark session Initialized.
+2025-04-04 14:57:39 - INFO - Looking for file: C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\transactions_20250404.csv
+2025-04-04 14:57:39 - INFO - Loading transactions from C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\transactions_20250404.csv
+2025-04-04 14:57:45 - INFO - Starting daily aggregation for 2025-04-04
+2025-04-04 14:57:46 - INFO - Daily aggregation completed for 2025-04-04
+2025-04-04 14:57:46 - INFO - Starting monthly aggregation for 2025-04
+2025-04-04 14:57:47 - INFO - Monthly aggregation completed for 2025-04
+2025-04-04 14:57:47 - INFO - Data successfully loaded and processed for C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\transactions_20250404.csv
+2025-04-04 14:57:47 - INFO - Shutting down Spark session.
+2025-04-04 14:57:47 - INFO - Closing down clientserver connection
+2025-04-04 15:01:54 - INFO - Spark session Initialized.
+2025-04-04 15:01:54 - INFO - Looking for file: C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\transactions_20250404.csv
+2025-04-04 15:01:54 - INFO - Loading transactions from C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\transactions_20250404.csv
+2025-04-04 15:02:00 - INFO - Starting daily aggregation for 2025-04-04
+2025-04-04 15:02:01 - INFO - Daily aggregation completed for 2025-04-04
+2025-04-04 15:02:01 - INFO - Starting monthly aggregation for 2025-04
+2025-04-04 15:02:02 - INFO - Monthly aggregation completed for 2025-04
+2025-04-04 15:02:02 - INFO - Data successfully loaded and processed for C:\Users\rupali.jain\Desktop\Assignment\Assignments\POC_pyspark\transactions_20250404.csv
+2025-04-04 15:02:02 - INFO - Shutting down Spark session.
+2025-04-04 15:02:02 - INFO - Closing down clientserver connection
